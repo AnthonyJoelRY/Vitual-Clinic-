@@ -1,0 +1,186 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "<size=45>¿Bajo qué condición debe estar el paciente para poder realizar el procedimiento?</size>",
+      "respuestas": [
+        "<size=39>Sedación </size>",
+        "<size=39>Analgesia </size>",
+        "<size=39>Con antieméticos</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 150,
+      "resta": 40,
+      "tiempo": 15,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿En qué posición se debe encontrar el paciente para el procedimiento?</size>",
+      "respuestas": [
+        "<size=39>Decúbito prono</size>",
+        "<size=39>Bipedestación</size>",
+        "<size=39>Decúbito supino</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 130,
+      "resta": 35,
+      "tiempo": 15,
+      "quitar": 10
+    },
+    {
+      "pregunta": "<size=45>En este caso, el paciente tenía luxado el hombro derecho, ¿cómo sería la maniobra a aplicar?</size>",
+      "respuestas": [
+        "<size=39>Contratracción hacia superior e izquierda y tracción hacia inferior y derecha</size>",
+        "<size=39>Tracción hacia superior e izquierda y contratracción hacia inferior y derecha</size>",
+        "<size=39>Tracción hacia superior y derecha y contratracción hacia inferior e izquierda</size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 160,
+      "resta": 45,
+      "tiempo": 30,
+      "quitar": 30
+    },
+    {
+      "pregunta": "<size=45>¿Qué movimientos traumáticos pueden provocar esta luxación, donde la cabeza del húmero se sitúa por delante de la escápula?</size>",
+      "respuestas": [
+        "<size=39>Movimiento de aducción y rotación externa</size>",
+        "<size=39>Movimiento de aducción y rotación interna</size>",
+        "<size=39>Movimiento de abducción y rotación externa</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 170,
+      "resta": 40,
+      "tiempo": 20,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿Bajo qué condición debe estar el paciente para poder realizar el procedimiento de luxación de cadera?</size>",
+      "respuestas": [
+        "<size=39> En camilla baja o sobre el suelo, decúbito supino</size>",
+        "<size=39>En camilla baja o sobre el suelo, decúbito prono</size>",
+        "<size=39>En camilla, decúbito supino</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 150,
+      "resta": 35,
+      "tiempo": 15,
+      "quitar": 10
+    },
+    {
+      "pregunta": "<size=45> ¿Cuál es el primer paso en el procedimiento de luxacion de cadera?</size>",
+      "respuestas": [
+        "<size=39>Mover la articulación de la cadera</size>",
+        "<size=39>Tomar crestas ilíacas para estabilizarlas</size>",
+        "<size=39>Flexión de la cadera hasta 90° y realizar tracción</size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 120,
+      "resta": 30,
+      "tiempo": 20,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿Qué nos indica que la luxación fue reducida? </size>",
+      "respuestas": [
+        "<size=39>Movilización completa</size>",
+        "<size=39>ongitud de extremidades igual</size>",
+        "<size=39>Longitud de extremidades tarda en ser igual luego de la luxación</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 160,
+      "resta": 35,
+      "tiempo": 20,
+      "quitar": 10
+    },
+    {
+      "pregunta": "<size=45>¿Qué control se debe realizar luego del procedimiento?</size>",
+      "respuestas": [
+        "<size=39>Tomografía</size>",
+        "<size=39>Radioscopia </size>",
+        "<size=39>Resonancia</size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 160,
+      "resta": 40,
+      "tiempo": 10,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>Cuando se palpa el pulso arterial, ¿qué debemos evaluar?</size>",
+      "respuestas": [
+        "<size=39>Frecuencia o número de pulsaciones por minuto</size>",
+        "<size=39>Tensión o resistencia a la compresión arterial</size>",
+        "<size=39>Se debe evaluar acrónimo AFRATIFS</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 170,
+      "resta": 45,
+      "tiempo": 20,
+      "quitar": 30
+    },
+    {
+      "pregunta": "<size=45>El paciente tenía los siguientes factores de riesgo coronarios mayores modificables. Escoja el excepto</size>",
+      "respuestas": [
+        "<size=39>Sedentarismo</size>",
+        "<size=39>Hipertensión arterial</size>",
+        "<size=39>Tabaquismo</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 140,
+      "resta": 35,
+      "tiempo": 15,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>Señale lo incorrecto en cuanto a la epidemiología del infarto agudo de miocardio</size>",
+      "respuestas": [
+        "<size=39>Mujeres después de la menopausia</size>",
+        "<size=39>Mayores de 65 años</size>",
+        "<size=39>Es común en mujeres en edad fértil</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 160,
+      "resta": 40,
+      "tiempo": 20,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿Qué elemento no es necesario para el diagnóstico?</size>",
+      "respuestas": [
+        "<size=39>Interrogatorio de antecedentes</size>",
+        "<size=39>Ergometría </size>",
+        "<size=39>EKG de reposo y eventualmente troponinas</size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 170,
+      "resta": 35,
+      "tiempo": 15,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>Una ferritina mayor a 1000 ng/mL indica, excepto:</size>",
+      "respuestas": [
+        "<size=39>Grupo hemo aumentado</size>",
+        "<size=39>Acumulación de iones hierro dañinos en el cuerpo </size>",
+        "<size=39>No es un factor indicador de intubación</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 170,
+      "resta": 45,
+      "tiempo": 20,
+      "quitar": 30
+    },
+    {
+      "pregunta": "<size=45>¿En la examinación pulmonar qué signos nos muestran compromiso orgánico?</size>",
+      "respuestas": [
+        "<size=39>Roncus bibasales y murmullo vesicular disminuido</size>",
+        "<size=39>Soplo sistólico y crepitantes bibasales</size>",
+        "<size=39>Murmullo vesicular conservado y sibilancias</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 140,
+      "resta": 35,
+      "tiempo": 25,
+      "quitar": 20
+    }
+  ]
+}

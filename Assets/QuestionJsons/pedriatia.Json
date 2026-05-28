@@ -1,0 +1,316 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "<size=45>Cuando el paciente se encuentra cianótico con dificultad respiratoria, se sospecha que la asfixia es:</size>",
+      "respuestas": [
+        "<size=39>Con signos de complicación</size>",
+        "<size=39>Sin signos de complicación </size>",
+        "<size=39>Total</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 120,
+      "resta": 60,
+      "tiempo": 25,
+      "quitar": 30
+    },
+    {
+      "pregunta": "<size=45>La dirección de los golpes en el dorso es:</size>",
+      "respuestas": [
+        "<size=39>De posterior a anterior y de arriba hacia abajo</size>",
+        "<size=39>De anterior a posterior en un ángulo de 45 grados</size>",
+        "<size=39>En un ángulo de 45 grados, de posterior a anterior</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 100,
+      "resta": 40,
+      "tiempo": 20,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45> ¿Cuántas compresiones se deben dar a nivel medio de la línea intermamilar?</size>",
+      "respuestas": [
+        "<size=39>10 compresiones</size>",
+        "<size=39>5 compresiones</size>",
+        "<size=39>7 compresiones</size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 120,
+      "resta": 50,
+      "tiempo": 15,
+      "quitar": 30
+    },
+    {
+      "pregunta": "<size=45> Si se ha prolongado la técnica y el niño pierde la conciencia por asfixia, se deberá:</size>",
+      "respuestas": [
+        "<size=39>Ingresar a cirugía o endoscopía digestiva alta</size>",
+        "<size=39>Continuar con la técnica hasta la eliminación del cuerpo extraño</size>",
+        "<size=39>Iniciar medidas básicas de reanimación</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 100,
+      "resta": 70,
+      "tiempo": 20,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿Cuál de los siguientes virus no es una forma frecuente de laringotraqueitis?</size>",
+      "respuestas": [
+        "<size=39>Adenovirus </size>",
+        "<size=39>Influenza </size>",
+        "<size=39>Virus sincitial respiratorio </size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 100,
+      "resta": 45,
+      "tiempo": 10,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿Cuál es la particularidad del cartílago cricoides?</size>",
+      "respuestas": [
+        "<size=39>Genera un edema intenso hacia la luz del cartílago</size>",
+        "<size=39>Es un cartílago fijo que al inflamarse genera mucho dolor</size>",
+        "<size=39>El edema es intenso pero autolimitado</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 105,
+      "resta": 60,
+      "tiempo": 15,
+      "quitar": 15
+    },
+    {
+      "pregunta": "<size=45>El Score de Westley para Crup no incluye:  </size>",
+      "respuestas": [
+        "<size=39>Cianosis</size>",
+        "<size=39>Estridor</size>",
+        "<size=39>Tos perruna</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 180,
+      "resta": 75,
+      "tiempo": 10,
+      "quitar": 30
+    },
+    {
+      "pregunta": "<size=45>¿Cuáles son los objetivos terapéuticos iniciales para el manejo de un paciente con laringotraqueítis?</size>",
+      "respuestas": [
+        "<size=39>Tranquilizar al paciente y brindar oxígeno suplementario por tubo endotraqueal</size>",
+        "<size=39>Tranquilizar al paciente, brindar analgesia y nebulización con adrenalina</size>",
+        "<size=39> Tranquilizar al paciente, quitar la fiebre y permeabilizar la vía aérea</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 170,
+      "resta": 40,
+      "tiempo": 15,
+      "quitar": 40
+    },
+    {
+      "pregunta": "<size=45>El punto de corte para definir una sepsis temprana o tardía es:</size>",
+      "respuestas": [
+        "<size=39>6 semanas</size>",
+        "<size=39>3 días</size>",
+        "<size=39>24 horas </size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 130,
+      "resta": 50,
+      "tiempo": 10,
+      "quitar": 10
+    },
+    {
+      "pregunta": "<size=45>¿Cuál es un factor de riesgo materno para sepsis neonatal?</size>",
+      "respuestas": [
+        "<size=39>Bacteriemia en labor de parto </size>",
+        "<size=39>Ruptura espontánea de membranas en sala de parto</size>",
+        "<size=39>Lavado de manos inadecuado al manipular al recién nacido</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 160,
+      "resta": 45,
+      "tiempo": 20,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45> Los signos vitales normales del recién nacido no incluyen: </size>",
+      "respuestas": [
+        "<size=39>Frecuencia cardiaca de 80 por minuto durante el sueño</size>",
+        "<size=39>Frecuencia respiratoria de 50 por minuto</size>",
+        "<size=39>Saturación de oxígeno de 85%</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 170,
+      "resta": 40,
+      "tiempo": 25,
+      "quitar": 30
+    },
+    {
+      "pregunta": "<size=45>Si los mecanismos compensatorios del recién nacido fallan, la manifestación cutánea será:</size>",
+      "respuestas": [
+        "<size=39>Piel marmórea y/o pálida.</size>",
+        "<size=39>Piel pálida, diaforética y muy laxa.</size>",
+        "<size=39>Piel pálida y caliente en las extremidades.</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 180,
+      "resta": 60,
+      "tiempo": 25,
+      "quitar": 40
+    },
+    {
+      "pregunta": "<size=45> La evaluación sistemática no requiere de:</size>",
+      "respuestas": [
+        "<size=39>Presencia de la madre y/o cuidador</size>",
+        "<size=39>Ambiente con ausencia de ruido</size>",
+        "<size=39>Conocimiento de antecedentes prenatales </size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 130,
+      "resta": 50,
+      "tiempo": 15,
+      "quitar": 30
+    },
+    {
+      "pregunta": "<size=45>En cabeza y cara siempre se debe evaluar la relación entre: </size>",
+      "respuestas": [
+        "<size=39>Ojos y orejas</size>",
+        "<size=39>Boca y ángulo de la mandíbula</size>",
+        "<size=39>Nariz y ojos</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 160,
+      "resta": 45,
+      "tiempo": 15,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>Si al evaluar el dorso se encuentra en región lumbar o sacra un saco o bolsa con pilificación superficial se deberá descartar:</size>",
+      "respuestas": [
+        "<size=39>Tumor de tejidos blandos</size>",
+        "<size=39>Lipomeningocele</size>",
+        "<size=39> Mielomeningocele</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 170,
+      "resta": 40,
+      "tiempo": 15,
+      "quitar": 30
+    },
+    {
+      "pregunta": "<size=45>¿Qué se debe evaluar en las fontanelas?</size>",
+      "respuestas": [
+        "<size=39>Forma y longitud.</size>",
+        "<size=39>Longitud y profundidad.</size>",
+        "<size=39>Laxitud y longitud.</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 180,
+      "resta": 60,
+      "tiempo": 15,
+      "quitar": 40
+    },
+    {
+      "pregunta": "<size=45>Para iniciar el RCP no se requiere de:</size>",
+      "respuestas": [
+        "<size=39>Verificar un entorno seguro</size>",
+        "<size=39>Presencia de la madre y/o cuidador</size>",
+        "<size=39>Verificar nuestra seguridad</size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 130,
+      "resta": 50,
+      "tiempo": 20,
+      "quitar": 10
+    },
+    {
+      "pregunta": "<size=45>¿Luego de dar las respiraciones se debe comprobar? </size>",
+      "respuestas": [
+        "<size=39>Pulso y respiración espontánea</size>",
+        "<size=39>Pulso, coloración y llenado capilar </size>",
+        "<size=39>Pulsos carotídeo y braquial únicamente</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 160,
+      "resta": 45,
+      "tiempo": 20,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>La profundidad de las compresiones deben ser de: </size>",
+      "respuestas": [
+        "<size=39>1 a 2 cm</size>",
+        "<size=39>2 a 4 cm</size>",
+        "<size=39>3 a 4 cm</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 170,
+      "resta": 40,
+      "tiempo": 15,
+      "quitar": 30
+    },
+    {
+      "pregunta": "<size=45>¿Cuántas compresiones y respiraciones se pueden dar como mínimo cuando el reanimador se encuentra solo?</size>",
+      "respuestas": [
+        "<size=39>15 compresiones y 2 respiraciones.</size>",
+        "<size=39>30 compresiones y 1 respiración.</size>",
+        "<size=39>30 compresiones y 2 respiraciones .</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 180,
+      "resta": 60,
+      "tiempo": 15,
+      "quitar": 40
+    },
+    {
+      "pregunta": "<size=45>¿Cuál es la posición sugerida para aplicar ventilación mecánica?</size>",
+      "respuestas": [
+        "<size=39>Neutra</size>",
+        "<size=39>Hiperextensión </size>",
+        "<size=39>Olfateo </size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 190,
+      "resta": 75,
+      "tiempo": 10,
+      "quitar": 30
+    },
+    {
+      "pregunta": "<size=45>¿Cuál debe ser la posición de las manos para generar un sello hermético?</size>",
+      "respuestas": [
+        "<size=39>Mano dominante en C y no dominante en E</size>",
+        "<size=39>Mano con dedos en V</size>",
+        "<size=39>Mano con dedos en C y E</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 170,
+      "resta": 40,
+      "tiempo": 15,
+      "quitar": 40
+    },
+    {
+      "pregunta": "<size=45>Señale lo incorrecto con respecto a la ventilación mecánica en lactantes:</size>",
+      "respuestas": [
+        "<size=39>Colocar el pulgar en puente nasal y cuatro dedos por debajo del mentón</size>",
+        "<size=39>La presión debe ser mayor a 20 cm H2O</size>",
+        "<size=39>La máscara del AMBU debe sellar la boca y nariz</size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 130,
+      "resta": 50,
+      "tiempo": 10,
+      "quitar": 10
+    },
+    {
+      "pregunta": "<size=45>¿Cuál debe ser el ritmo de las ventilaciones?</size>",
+      "respuestas": [
+        "<size=39>40 a 60 respiraciones por minuto</size>",
+        "<size=39>60 a 70 respiraciones por minuto </size>",
+        "<size=39>20 a 40 respiraciones por minuto </size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 160,
+      "resta": 45,
+      "tiempo": 20,
+      "quitar": 20
+    }
+  ]
+}

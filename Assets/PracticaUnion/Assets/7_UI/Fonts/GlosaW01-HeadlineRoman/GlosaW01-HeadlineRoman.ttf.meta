@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f980b72276b0f2343a5eed1f0f58e956
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - GlosaW01-HeadlineRoman
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 25557de1b0549cf409f9aa8e09afbf61, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

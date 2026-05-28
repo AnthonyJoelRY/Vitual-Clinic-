@@ -1,0 +1,274 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "<size=45>¿Cuál es la clasificación de la anemia ferropénica?</size>",
+      "respuestas": [
+        "<size=39>Microcítica, hipocrómica. </size>",
+        "<size=39>Macrocítica, normocrómica.</size>",
+        "<size=39>Normocítica, hipocrómica.</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 100,
+      "resta": 40,
+      "tiempo": 15,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿Cuál es el antecedente de la anemia ferropénica?</size>",
+      "respuestas": [
+        "<size=39>Déficit de vitamina B12</size>",
+        "<size=39>Hipotiroidismo</size>",
+        "<size=39>Sangrado y/o desnutrición</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 50,
+      "resta": 20,
+      "tiempo": 10,
+      "quitar": 10
+    },
+    {
+      "pregunta": "<size=45>¿Qué parámetros de laboratorio contemplan el perfil de hierro completo?</size>",
+      "respuestas": [
+        "<size=39>Hierro sérico, hemoglobina, ferritina, saturación de transferrina.</size>",
+        "<size=39>Hierro sérico, ferritina, saturación de transferrina.</size>",
+        "<size=39>Hierro sérico, saturación de oxígeno y transferrina.</size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 100,
+      "resta": 40,
+      "tiempo": 20,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿Cuál es el tratamiento farmacológico para la anemia ferropénica?</size>",
+      "respuestas": [
+        "<size=39>Hierro oral y/o intravenoso.</size>",
+        "<size=39>Únicamente hierro intravenoso</size>",
+        "<size=39>Dieta rica en proteínas y hierro oral</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 60,
+      "resta": 30,
+      "tiempo": 10,
+      "quitar": 10
+    },{
+      "pregunta": "<size=45>¿Cómo se diagnóstica la anemia?</size>",
+      "respuestas": [
+        "<size=39>Hemoglobina</size>",
+        "<size=39>Hemoglobina corpuscular media.</size>",
+        "<size=39>Valor de hierro sérico y hemoglobina.</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 50,
+      "resta": 20,
+      "tiempo": 15,
+      "quitar": 10
+    },
+    {
+      "pregunta": "<size=45>¿Qué parámetros de laboratorio se usan para clasificar la anemia?</size>",
+      "respuestas": [
+        "<size=39>HCTO, VCM, HCM</size>",
+        "<size=39>Hb, HCTO, VCM, HCM</size>",
+        "<size=39>Hb, VCM, HCM.</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 80,
+      "resta": 30,
+      "tiempo": 15,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿Desde qué valor de Hb se considera anemia?</size>",
+      "respuestas": [
+        "<size=39>Mujer <11 mg/dl, hombres <12 mg/dl, embarazadas y niños < 10 mg/dl.</size>",
+        "<size=39>Mujer <12 mg/dl, hombres <14 mg/dl, embarazadas y niños < 11 mg/dl.</size>",
+        "<size=39>Mujer <14 mg/dl, hombres <12 mg/dl, embarazadas y niños < 11 mg/dl.</size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 100,
+      "resta": 40,
+      "tiempo": 15,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿Qué signos clínicos pueden presentarse en la anemia?</size>",
+      "respuestas": [
+        "<size=39> Palidez cutáneo - mucosa</size>",
+        "<size=39>Entumecimiento de extremidades</size>",
+        "<size=39>Dolor generalizado</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 50,
+      "resta": 25,
+      "tiempo": 10,
+      "quitar": 10
+    },{
+      "pregunta": "<size=45>¿Qué es la acromegalia?</size>",
+      "respuestas": [
+        "<size=39>Patología endocrina</size>",
+        "<size=39>Neoplasia de los huesos grandes del cuerpo.</size>",
+        "<size=39>Crecimiento patológico de los cartílagos.</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 60,
+      "resta": 20,
+      "tiempo": 15,
+      "quitar": 10
+    },
+    {
+      "pregunta": "<size=45>¿Grupo etario más común para la acromegalia?</size>",
+      "respuestas": [
+        "<size=39>35 a 60 años</size>",
+        "<size=39>53 a 70 años</size>",
+        "<size=39>30 a 50 años</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 50,
+      "resta": 20,
+      "tiempo": 15,
+      "quitar": 10
+    },
+    {
+      "pregunta": "<size=45>¿Cuál es la etiología más común de la acromegalia?</size>",
+      "respuestas": [
+        "<size=39>Tumor hipotalámico.</size>",
+        "<size=39>Tumor hipofisario.</size>",
+        "<size=39>Cáncer de páncreas.</size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 100,
+      "resta": 30,
+      "tiempo": 15,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿Qué datos de laboratorio se asocian a acromegalia?</size>",
+      "respuestas": [
+        "<size=39>Elevación de IGF-1, y hormona del crecimiento.</size>",
+        "<size=39>Elevación de IGF-1 y dopamina</size>",
+        "<size=39>Elevación de hormona del crecimiento y BHCG</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 100,
+      "resta": 60,
+      "tiempo": 20,
+      "quitar": 20
+    },{
+      "pregunta": "<size=45>¿Cuál es la agudeza visual normal?</size>",
+      "respuestas": [
+        "<size=39>Ojo derecho: 20/20; Ojo izquierdo: 20/20.</size>",
+        "<size=39>Ojo derecho: 20/40; Ojo izquierdo: 20/40.</size>",
+        "<size=39>Ojo derecho: 40/20; Ojo izquierdo: 40/20.</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 80,
+      "resta": 30,
+      "tiempo": 15,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿Qué patología aguda se asocia generalmente a miopía (por ende un globo ocular de mayor tamaño)?</size>",
+      "respuestas": [
+        "<size=39>Presbicia</size>",
+        "<size=39>Hemorragia retiniana</size>",
+        "<size=39>Desprendimiento de retina</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 100,
+      "resta": 35,
+      "tiempo": 15,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿En la anamnesis qué datos son importantes a considerar en sospecha de desprendimiento retiniano?</size>",
+      "respuestas": [
+        "<size=39>Antecedente de esclerosis, pérdida súbita de agudeza visual, binocular.</size>",
+        "<size=39> Antecedente de miopía, pérdida aguda de agudeza visual, monocular.</size>",
+        "<size=39> Antecedente de DM2, pérdida súbita de agudeza visual, monocular.</size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 100,
+      "resta": 40,
+      "tiempo": 20,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿Cómo se produce el reflejo rojo del ojo?</size>",
+      "respuestas": [
+        "<size=39>Luz atraviesa los medios refractivos del ojo, reflejando el color de la retina.</size>",
+        "<size=39>Luz atraviesa los humor acuoso y vítreo, reflejando el color de la úvea</size>",
+        "<size=39>Luz atraviesa la córnea y humor acuoso, reflejando el color del iris</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 80,
+      "resta": 40,
+      "tiempo": 15,
+      "quitar": 10
+    },
+    {
+      "pregunta": "<size=45>¿Qué es un linfoma?</size>",
+      "respuestas": [
+        "<size=39>Neoplasia que afecta a Linfocitos y ganglios linfáticos.</size>",
+        "<size=39>Neoplasia que afecta a Leucocitos y ganglios linfáticos.</size>",
+        "<size=39>Neoplasia que afecta a Linfocitos y ganglios nerviosos.</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 60,
+      "resta": 30,
+      "tiempo": 15,
+      "quitar": 10
+    },
+    {
+      "pregunta": "<size=45>¿Grupos etarios asociados al linfoma Hodgkin y no Hodkin generalmente?</size>",
+      "respuestas": [
+        "<size=39>Linfoma Hodgkin 15 a 30 años y no Hodkin mayores de 45 años</size>",
+        "<size=39>Linfoma Hodgkin: 60 años y no Hodkin: 15 a 30 años</size>",
+        "<size=39>Linfoma Hodgkin 15 a 30 años y no Hodkin mayores de 60 años</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 60,
+      "resta": 30,
+      "tiempo": 17,
+      "quitar": 10
+    },
+    {
+      "pregunta": "<size=45>¿Cuáles son los aspectos clínicos que se asocian con linfoma (síntomas B)?</size>",
+      "respuestas": [
+        "<size=39>Pérdida de sensibilidad, fiebre sin foco, sudoraciones escasas nocturnas.</size>",
+        "<size=39>Pérdida de peso, fiebre sin foco, sudoraciones profusas.</size>",
+        "<size=39>Pérdida de apetito, fiebre alta, nicturia, pérdida de peso.</size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 90,
+      "resta": 40,
+      "tiempo": 15,
+      "quitar": 15
+    },
+    {
+      "pregunta": "<size=45>¿Las cadenas ganglionares epitrocleares se palpan en qué condición, usualmente?</size>",
+      "respuestas": [
+        "<size=39>Neoplasias.</size>",
+        "<size=39>Hemólisis.</size>",
+        "<size=39>Tuberculosis</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 50,
+      "resta": 20,
+      "tiempo": 10,
+      "quitar": 10
+    },
+    {
+      "pregunta": "<size=45>¿Qué cadenas ganglionares se asocian al Linfoma de Hodgkin (mayormente asociado a malignidad)?</size>",
+      "respuestas": [
+        "<size=39>Ganglios occipitales, auriculares, cervicales, supraclaviculares.</size>",
+        "<size=39>Ganglios retroauriculares, cervicales, supra e infraclaviculares.</size>",
+        "<size=39>TuberculoGanglios auriculares, submandibulares, supra e infraclaviculares.</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 60,
+      "resta": 30,
+      "tiempo": 20,
+      "quitar": 10
+    }
+  ]
+}

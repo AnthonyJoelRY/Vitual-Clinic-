@@ -1,0 +1,56 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "<size=45>¿Cuál es la función del ECG o EKG?</size>",
+      "respuestas": [
+        "<size=39>Evaluar la motilidad del corazón.</size>",
+        "<size=39>Evaluar la actividad eléctrica del corazón.</size>",
+        "<size=39>Descartar pericarditis.</size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 60,
+      "resta": 15,
+      "tiempo": 20,
+      "quitar": 15
+    },
+    {
+      "pregunta": "<size=45>¿Cuáles son las derivaciones precordiales?</size>",
+      "respuestas": [
+        "<size=39>V1, V2, V3, V4, DI, DII, DIII.</size>",
+        "<size=39>aVL, aVR, aVF.</size>",
+        "<size=39>V1, V2, V3, V4, V5, V6 </size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 80,
+      "resta": 30,
+      "tiempo": 15,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿En qué tiempo se recomienda realizar un ECG en casos de IAM?</size>",
+      "respuestas": [
+        "<size=39>En las 12 horas.</size>",
+        "<size=39>En los 60 minutos.</size>",
+        "<size=39>En los 10 minutos</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 50,
+      "resta": 25,
+      "tiempo": 10,
+      "quitar": 10
+    },
+    {
+      "pregunta": "<size=45>¿Cuáles son los parámetros para configurar el electrocardiógrafo?</size>",
+      "respuestas": [
+        "<size=39>Amplitud 1 mm/mV; Velocidad 25 mm/seg.</size>",
+        "<size=39>Amplitud 10 mm/mV; Velocidad 25 cm/seg</size>",
+        "<size=39>Amplitud 1 mm/10 mV; Velocidad 2.5 mm/seg</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 80,
+      "resta": 40,
+      "tiempo": 20,
+      "quitar": 20
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "<size=45>¿Cuál es el objetivo del tubo endotraqueal?</size>",
+      "respuestas": [
+        "<size=39>Asegurar una vía aérea para intubar.</size>",
+        "<size=39>Asegurar una vía aérea e intestinal para hidratación  .</size>",
+        "<size=39>Asegurar una vía aérea para oxigenar.</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 100,
+      "resta": 30,
+      "tiempo": 15,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿Cuáles son las tres fases de la intubación endotraqueal?</size>",
+      "respuestas": [
+        "<size=39>Laringoscopía, colocación de tubo endotraqueal, retiro de laringoscopio y comprobación del procedimiento</size>",
+        "<size=39>Analgesia, laringoscopia, colocación de tubo endotraqueal, comprobación de procedimiento.</size>",
+        "<size=39>Sedación, colocación de tubo endotraqueal, auscultación de los campos pulmonares.</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 100,
+      "resta": 40,
+      "tiempo": 25,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿A través de qué estructuras debe pasar el tubo endotraqueal para asegurar un correcto procedimiento?</size>",
+      "respuestas": [
+        "<size=39>Lóbulos de la tiroides.</size>",
+        "<size=39>Cuerdas vocales.</size>",
+        "<size=39>Nervio laríngeo recurrente.</size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 80,
+      "resta": 20,
+      "tiempo": 10,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿Cómo se verifica que esté correctamente colocado el tubo endotraqueal?</size>",
+      "respuestas": [
+        "<size=39>Se ausculta entrada de aire en ambos campos pulmonares </size>",
+        "<size=39>Se ausculta entrada de aire en tráquea</size>",
+        "<size=39>No ausculta entrada de aire en ningún campo pulmonar</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 70,
+      "resta": 50,
+      "tiempo": 15,
+      "quitar": 20
+    }
+  ]
+}

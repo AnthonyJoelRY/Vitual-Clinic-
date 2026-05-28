@@ -1,0 +1,142 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "<size=45>¿Cuál es la función de las maniobras de Leopold?</size>",
+      "respuestas": [
+        "<size=39>Determinar la estática fetal.</size>",
+        "<size=39>Evaluar el tamaño del feto.</size>",
+        "<size=39>Ayuda a iniciar el trabajo de parto.</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 50,
+      "resta": 20,
+      "tiempo": 10,
+      "quitar": 10
+    },
+    {
+      "pregunta": "<size=45>¿Qué nos indica cada una de las maniobras de Leopold?</size>",
+      "respuestas": [
+        "<size=39>Posición del polo cefálico, altura, presentación y situación fetal.</size>",
+        "<size=39>Altura de fondo uterino, posición, presentación y situación fetal.</size>",
+        "<size=39>Ubicación del polo cefálico, polo podálico, dorso del feto y presentación fetal.</size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 100,
+      "resta": 60,
+      "tiempo": 20,
+      "quitar": 20
+    },{
+      "pregunta": "<size=45>Cuál es la diferencia entre el polo cefálico y el polo podálico del feto?</size>",
+      "respuestas": [
+        "<size=39> Polo cefálico: es nodular, irregular, suave ; Polo podálico: es liso, duro y rebota.</size>",
+        "<size=39>Polo podálico: es liso, duro y rebota ; Polo cefálico: es nodular, irregular, suave. </size>",
+        "<size=39>Polo cefálico: es liso, duro y rebota ; Polo podálico: es nodular, irregular, suave.</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 120,
+      "resta": 50,
+      "tiempo": 25,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>Para qué se usa la colocación del balón intrauterino?</size>",
+      "respuestas": [
+        "<size=39>Evitar un parto prematuro</size>",
+        "<size=39>Control de la hemorragia postparto</size>",
+        "<size=39>Inducción del trabajo de parto en gestaciones prolongadas</size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 90,
+      "resta": 55,
+      "tiempo": 20,
+      "quitar": 15
+    },{
+      "pregunta": "<size=45>Cuánta solución salina se utiliza para llenar el balón intrauterin</size>",
+      "respuestas": [
+        "<size=39> 500 ml </size>",
+        "<size=39> 50 ml </size>",
+        "<size=39> 100 ml </size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 50,
+      "resta": 20,
+      "tiempo": 10,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿Cuáles  son otras medidas importantes para implementar en el control de la hemorragia postparto?</size>",
+      "respuestas": [
+        "<size=39>Elevación de extremidades inferiores</size>",
+        "<size=39>Administración de anticoagulantes</size>",
+        "<size=39>Uterotónicos como oxitocina</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 75,
+      "resta": 25,
+      "tiempo": 15,
+      "quitar": 20
+    },{
+      "pregunta": "<size=45>¿Cuánto tiempo se deja colocado el balón intrauterino y cuál es la frecuencia recomendada para retirar la solución?</size>",
+      "respuestas": [
+        "<size=39>Dejar por 12 horas; retirar 10 ml cada 30 minutos.</size>",
+        "<size=39>Dejar por 24 horas; retirar  50 ml cada 30 minutos.</size>",
+        "<size=39>Dejar por 24 horas; retirar 100 ml cada 30 minutos.</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 100,
+      "resta": 20,
+      "tiempo": 20,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿Cuál es el concepto de presentación podálica en un parto distócico?</size>",
+      "respuestas": [
+        "<size=39>El feto se presenta con los hombros atrapados en la pelvis materna.</size>",
+        "<size=39>El feto se presenta con la cabeza hacia arriba en la pelvis materna.</size>",
+        "<size=39>El feto se presenta con las nalgas o los pies hacia abajo en la pelvis materna.</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 80,
+      "resta": 35,
+      "tiempo": 15,
+      "quitar": 15
+    },{
+      "pregunta": "<size=45>Durante un parto vaginal, ¿cuál es la técnica utilizada para liberar cualquier asa de cordón umbilical que pueda estar causando compresión alrededor del cuello del feto y prevenir la hipoxia fetal?</size>",
+      "respuestas": [
+        "<size=39>Maniobra de Asa de Cordón</size>",
+        "<size=39>Maniobra de McRoberts</size>",
+        "<size=39>Maniobra de Mauriceau</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 60,
+      "resta": 20,
+      "tiempo": 15,
+      "quitar": 20
+    },
+    {
+      "pregunta": "<size=45>¿Cuál es la técnica específica utilizada para liberar los hombros del feto cuando quedan atrapados en la pelvis materna?</size>",
+      "respuestas": [
+        "<size=39>Maniobra de Kristeller</size>",
+        "<size=39>Maniobra de Rojas-Löwset</size>",
+        "<size=39>Maniobra de Mauriceau</size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 70,
+      "resta": 30,
+      "tiempo": 15,
+      "quitar": 10
+    },{
+      "pregunta": "<size=45>Cuál es el propósito principal de la maniobra de Mauriceau durante un parto con presentación podálica?</size>",
+      "respuestas": [
+        "<size=39>Facilitar la salida de la cabeza del feto</size>",
+        "<size=39>Facilitar la liberación de un brazo atrapado</size>",
+        "<size=39>Facilitar la liberación de un asa de cordón umbilical atrapada</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 80,
+      "resta": 20,
+      "tiempo": 20,
+      "quitar": 20
+    }
+  ]
+}

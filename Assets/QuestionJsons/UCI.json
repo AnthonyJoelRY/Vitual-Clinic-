@@ -1,0 +1,55 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "<size=45>¿Cuáles son los usos del catéter venoso central?</size>",
+      "respuestas": [
+        "<size=39>Buen acceso venoso periférico</size>",
+        "<size=39>Hidratación y administración de medicamentos. cm</size>",
+        "<size=39>Dilatar la vena yugular interna</size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 60,
+      "resta": 30,
+      "tiempo": 12,
+      "quitar": 15
+    },{
+      "pregunta": "<size=45>¿Cuál es el trayecto que sigue el CVS, si se introduce en la VYI?</size>",
+      "respuestas": [
+        "<size=39>Vena yugular interna, vena subclavia, aurícula derecha.</size>",
+        "<size=39>Arteria carótida, Tronco braquiocefálico, aurícula izquierda.</size>",
+        "<size=39>Vena yugular interna, VCS, Aurícula derecha.</size>"
+      ],
+      "indiceRespuestaCorrecta": 2,
+      "suma": 70,
+      "resta": 40,
+      "tiempo": 15,
+      "quitar": 15
+    },{
+      "pregunta": "<size=45>¿Cuál es la complicación más frecuente de este procedimiento?</size>",
+      "respuestas": [
+        "<size=39>Neumotórax</size>",
+        "<size=39>Hemotórax</size>",
+        "<size=39>Punción de la arteria carótida</size>"
+      ],
+      "indiceRespuestaCorrecta": 0,
+      "suma": 30,
+      "resta": 20,
+      "tiempo": 10,
+      "quitar": 10
+    },{
+      "pregunta": "<size=45>¿Cuánto se debe introducir el CVS por la VYI en los adultos?</size>",
+      "respuestas": [
+        "<size=39>Derecha: 20 a 25 cm; Izquierda: 10 a 15 cm</size>",
+        "<size=39>Derecha: 15 a 16 cm; Izquierda: 15 a 20 cm</size>",
+        "<size=39>Derecha: 10 a 15 cm; Izquierda: 20 a 25 cm</size>"
+      ],
+      "indiceRespuestaCorrecta": 1,
+      "suma": 60,
+      "resta": 25,
+      "tiempo": 15,
+      "quitar": 20
+    }
+    
+  ]
+}
+
