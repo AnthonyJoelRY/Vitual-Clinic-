@@ -1,0 +1,44 @@
+# Unity carpetas generadas automáticamente
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Meta archivos de carpetas vacías
+**/[Hh]idden~/
+
+# Archivos del OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Crash reports
+crashlytics-build.properties
+
+# Archivos comprimidos
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.tar.gz
